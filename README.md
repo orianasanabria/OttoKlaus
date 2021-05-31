@@ -1,5 +1,16 @@
 # ottokraus
 
+## Hosting
+```
+https://vue-app-1902.web.app/
+```
+
+## Credentials
+```
+example@domain.com
+123456
+```
+
 ## Project setup
 ```
 yarn install
